@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2025-06-12" />
   <meta name="citation_publication_date" content="2025-06-12" />
   <meta property="article:published_time" content="2025-06-12" />
-  <meta name="dc.modified" content="2025-06-12T09:12:05+00:00" />
-  <meta property="article:modified_time" content="2025-06-12T09:12:05+00:00" />
+  <meta name="dc.modified" content="2025-06-12T09:13:18+00:00" />
+  <meta property="article:modified_time" content="2025-06-12T09:13:18+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_pdf_url" content="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/a75a8ca87a14c650a91c6cb2776ffeeade62c6fe/" />
-  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/a75a8ca87a14c650a91c6cb2776ffeeade62c6fe/" />
-  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/a75a8ca87a14c650a91c6cb2776ffeeade62c6fe/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/cbfea1a1f5f771cc3729894857a270a381854cf2/" />
+  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/cbfea1a1f5f771cc3729894857a270a381854cf2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/cbfea1a1f5f771cc3729894857a270a381854cf2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/InMiceMethodPaper/v/a75a8ca87a14c650a91c6cb2776ffeeade62c6fe/))
+([permalink](https://habi.github.io/InMiceMethodPaper/v/cbfea1a1f5f771cc3729894857a270a381854cf2/))
 was automatically generated
-from [habi/InMiceMethodPaper@a75a8ca](https://github.com/habi/InMiceMethodPaper/tree/a75a8ca87a14c650a91c6cb2776ffeeade62c6fe)
+from [habi/InMiceMethodPaper@cbfea1a](https://github.com/habi/InMiceMethodPaper/tree/cbfea1a1f5f771cc3729894857a270a381854cf2)
 on June 12, 2025.
 </em></small>
 
@@ -131,7 +131,7 @@ on June 12, 2025.
 
 
 
-## Conflicts of interest {.page_break_before}
+## Conflicts of interest
 
 
 ## Acknowledgments
