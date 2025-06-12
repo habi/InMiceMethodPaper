@@ -1,30 +1,28 @@
 ---
 title: "Manuscript Title"
-date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - microCT
+  - bone
+  - mouse
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
+  - name: David Haberthür
+    initials: DH
+    orcid: 0000-0003-3388-9187
+    github: habi
+    mastodon: habi
     mastodon-server: mastodon.social
-    email: john.doe@something.com
+    email: david.haberthuer@unibe.ch
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
-    corresponding: true
+      - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
+    contributions:
+      - Data curation
+      - Formal analysis
+      - Investigation
+      - Methodology
+      - Software
+      - Validation
+      - Visualization
+      - Writing – original draft
+      - Writing – review & editing
+    corresponding: false
