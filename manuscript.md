@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2025-06-12" />
   <meta name="citation_publication_date" content="2025-06-12" />
   <meta property="article:published_time" content="2025-06-12" />
-  <meta name="dc.modified" content="2025-06-12T09:03:02+00:00" />
-  <meta property="article:modified_time" content="2025-06-12T09:03:02+00:00" />
+  <meta name="dc.modified" content="2025-06-12T09:12:05+00:00" />
+  <meta property="article:modified_time" content="2025-06-12T09:12:05+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_pdf_url" content="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/acde865f8ef922e8de8cb510045a249eef445fe9/" />
-  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/acde865f8ef922e8de8cb510045a249eef445fe9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/acde865f8ef922e8de8cb510045a249eef445fe9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/a75a8ca87a14c650a91c6cb2776ffeeade62c6fe/" />
+  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/a75a8ca87a14c650a91c6cb2776ffeeade62c6fe/" />
+  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/a75a8ca87a14c650a91c6cb2776ffeeade62c6fe/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/InMiceMethodPaper/v/acde865f8ef922e8de8cb510045a249eef445fe9/))
+([permalink](https://habi.github.io/InMiceMethodPaper/v/a75a8ca87a14c650a91c6cb2776ffeeade62c6fe/))
 was automatically generated
-from [habi/InMiceMethodPaper@acde865](https://github.com/habi/InMiceMethodPaper/tree/acde865f8ef922e8de8cb510045a249eef445fe9)
+from [habi/InMiceMethodPaper@a75a8ca](https://github.com/habi/InMiceMethodPaper/tree/a75a8ca87a14c650a91c6cb2776ffeeade62c6fe)
 on June 12, 2025.
 </em></small>
 
@@ -118,7 +118,16 @@ on June 12, 2025.
 
 
 
-- [Data curation](https://credit.niso.org/contributor-roles/data-curation/): David Haberthür- [Formal analysis](https://credit.niso.org/contributor-roles/formal-analysis/): David Haberthür- [Investigation](https://credit.niso.org/contributor-roles/investigation/): David Haberthür- [Methodology](https://credit.niso.org/contributor-roles/methodology/): David Haberthür- [Software](https://credit.niso.org/contributor-roles/software/): David Haberthür- [Validation](https://credit.niso.org/contributor-roles/validation/): David Haberthür- [Visualization](https://credit.niso.org/contributor-roles/visualization/): David Haberthür- [Writing – original draft](https://credit.niso.org/contributor-roles/writing---original-draft/): David Haberthür- [Writing – review & editing](https://credit.niso.org/contributor-roles/writing---review-&-editing/): David Haberthür
+
+- [Data curation](https://credit.niso.org/contributor-roles/data-curation/): David Haberthür
+- [Formal analysis](https://credit.niso.org/contributor-roles/formal-analysis/): David Haberthür
+- [Investigation](https://credit.niso.org/contributor-roles/investigation/): David Haberthür
+- [Methodology](https://credit.niso.org/contributor-roles/methodology/): David Haberthür
+- [Software](https://credit.niso.org/contributor-roles/software/): David Haberthür
+- [Validation](https://credit.niso.org/contributor-roles/validation/): David Haberthür
+- [Visualization](https://credit.niso.org/contributor-roles/visualization/): David Haberthür
+- [Writing – original draft](https://credit.niso.org/contributor-roles/writing---original-draft/): David Haberthür
+- [Writing – review & editing](https://credit.niso.org/contributor-roles/writing---review-&-editing/): David Haberthür
 
 
 
