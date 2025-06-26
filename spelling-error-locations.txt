@@ -1,2 +1,2 @@
-content/06.contributions.md:7:curation
-content/09.supplementary.md:3:Jupyter
+content/07.code_availability.md:3:Jupyter
+content/09.author_contributions.md:7:curation

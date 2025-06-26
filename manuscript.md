@@ -5,7 +5,7 @@ keywords:
 - bone
 - mouse
 lang: en-US
-date-meta: '2025-06-12'
+date-meta: '2025-06-26'
 author-meta:
 - David Haberthür
 header-includes: |
@@ -19,11 +19,11 @@ header-includes: |
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2025-06-12" />
-  <meta name="citation_publication_date" content="2025-06-12" />
-  <meta property="article:published_time" content="2025-06-12" />
-  <meta name="dc.modified" content="2025-06-12T09:13:18+00:00" />
-  <meta property="article:modified_time" content="2025-06-12T09:13:18+00:00" />
+  <meta name="dc.date" content="2025-06-26" />
+  <meta name="citation_publication_date" content="2025-06-26" />
+  <meta property="article:published_time" content="2025-06-26" />
+  <meta name="dc.modified" content="2025-06-26T11:25:29+00:00" />
+  <meta property="article:modified_time" content="2025-06-26T11:25:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_pdf_url" content="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/cbfea1a1f5f771cc3729894857a270a381854cf2/" />
-  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/cbfea1a1f5f771cc3729894857a270a381854cf2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/cbfea1a1f5f771cc3729894857a270a381854cf2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/97f6c277c258e35f782fbd38e4eba063862e4f8b/" />
+  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/97f6c277c258e35f782fbd38e4eba063862e4f8b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/97f6c277c258e35f782fbd38e4eba063862e4f8b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/InMiceMethodPaper/v/cbfea1a1f5f771cc3729894857a270a381854cf2/))
+([permalink](https://habi.github.io/InMiceMethodPaper/v/97f6c277c258e35f782fbd38e4eba063862e4f8b/))
 was automatically generated
-from [habi/InMiceMethodPaper@cbfea1a](https://github.com/habi/InMiceMethodPaper/tree/cbfea1a1f5f771cc3729894857a270a381854cf2)
-on June 12, 2025.
+from [habi/InMiceMethodPaper@97f6c27](https://github.com/habi/InMiceMethodPaper/tree/97f6c277c258e35f782fbd38e4eba063862e4f8b)
+on June 26, 2025.
 </em></small>
 
 
@@ -95,19 +95,33 @@ on June 12, 2025.
 :::
 
 
-## Abstract {.page_break_before}
+## Abstract
 
 
-## Introduction {.page_break_before}
+## Background & Summary
 
 
-## Methodology {.page_break_before}
+## Methods {.page_break_before}
 
 
-## Results {.page_break_before}
+## Data Records
 
 
-## Discussion {.page_break_before}
+## Technical Validation
+
+
+## Usage Notes 
+
+
+## Code Availability
+
+- [Jupyter notebooks](https://github.unibe.ch/david-haberthuer/InMice)
+
+
+## References {.page_break_before}
+
+<!-- Explicitly insert bibliography here -->
+<div id="refs"></div>
 
 
 ## Author Contributions {.page_break_before}
@@ -131,22 +145,11 @@ on June 12, 2025.
 
 
 
-## Conflicts of interest
+## Competing Interests
 
 
-## Acknowledgments
+## Acknowledgements
 
 We are grateful to the [Microscopy Imaging Center](https://mic.unibe.ch/) of the University of Bern for their infrastructural support.
 We also thank the `manubot` project [@doi:10.1371/journal.pcbi.1007128] for facilitating collaborative writing of this manuscript.
-
-
-## Supplementary Materials
-
-- [Jupyter notebooks](https://github.unibe.ch/david-haberthuer/InMice)
-
-
-## References {.page_break_before}
-
-<!-- Explicitly insert bibliography here -->
-<div id="refs"></div>
 
