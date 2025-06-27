@@ -5,9 +5,10 @@ keywords:
 - bone
 - mouse
 lang: en-US
-date-meta: '2025-06-26'
+date-meta: '2025-06-27'
 author-meta:
 - David Haberthür
+- Jane Doe
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -19,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2025-06-26" />
-  <meta name="citation_publication_date" content="2025-06-26" />
-  <meta property="article:published_time" content="2025-06-26" />
-  <meta name="dc.modified" content="2025-06-26T11:25:29+00:00" />
-  <meta property="article:modified_time" content="2025-06-26T11:25:29+00:00" />
+  <meta name="dc.date" content="2025-06-27" />
+  <meta name="citation_publication_date" content="2025-06-27" />
+  <meta property="article:published_time" content="2025-06-27" />
+  <meta name="dc.modified" content="2025-06-27T08:00:45+00:00" />
+  <meta property="article:modified_time" content="2025-06-27T08:00:45+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -33,15 +34,18 @@ header-includes: |
   <meta name="citation_author" content="David Haberthür" />
   <meta name="citation_author_institution" content="Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland" />
   <meta name="citation_author_orcid" content="0000-0003-3388-9187" />
+  <meta name="citation_author" content="Jane Doe" />
+  <meta name="citation_author_institution" content="Exemplary institute, Some University, 123 Example St, City, Country" />
+  <meta name="citation_author_orcid" content="0000-0001-2345-6789" />
   <link rel="canonical" href="https://habi.github.io/InMiceMethodPaper/" />
   <meta property="og:url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta property="twitter:url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_fulltext_html_url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_pdf_url" content="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/97f6c277c258e35f782fbd38e4eba063862e4f8b/" />
-  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/97f6c277c258e35f782fbd38e4eba063862e4f8b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/97f6c277c258e35f782fbd38e4eba063862e4f8b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/11028968381a3a02a1a466776f3665fb058f0a03/" />
+  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/11028968381a3a02a1a466776f3665fb058f0a03/" />
+  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/11028968381a3a02a1a466776f3665fb058f0a03/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +67,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/InMiceMethodPaper/v/97f6c277c258e35f782fbd38e4eba063862e4f8b/))
+([permalink](https://habi.github.io/InMiceMethodPaper/v/11028968381a3a02a1a466776f3665fb058f0a03/))
 was automatically generated
-from [habi/InMiceMethodPaper@97f6c27](https://github.com/habi/InMiceMethodPaper/tree/97f6c277c258e35f782fbd38e4eba063862e4f8b)
-on June 26, 2025.
+from [habi/InMiceMethodPaper@1102896](https://github.com/habi/InMiceMethodPaper/tree/11028968381a3a02a1a466776f3665fb058f0a03)
+on June 27, 2025.
 </em></small>
 
 
@@ -88,9 +92,24 @@ on June 26, 2025.
      Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
   </small>
 
++ **Jane Doe**
+  ^[✉](#correspondence)^<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-2345-6789](https://orcid.org/0000-0001-2345-6789)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [janedoe](https://github.com/janedoe)
+    <br>
+  <small>
+     Exemplary institute, Some University, 123 Example St, City, Country
+     · Funded by some exemplary institution (Grant 123-456-789)
+  </small>
+
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/habi/InMiceMethodPaper/issues)
+or email to
+Jane Doe \<jane@example.com\>.
+
 
 :::
 
@@ -133,20 +152,29 @@ on June 26, 2025.
 
 
 
-- [Data curation](https://credit.niso.org/contributor-roles/data-curation/): David Haberthür
-- [Formal analysis](https://credit.niso.org/contributor-roles/formal-analysis/): David Haberthür
-- [Investigation](https://credit.niso.org/contributor-roles/investigation/): David Haberthür
-- [Methodology](https://credit.niso.org/contributor-roles/methodology/): David Haberthür
-- [Software](https://credit.niso.org/contributor-roles/software/): David Haberthür
-- [Validation](https://credit.niso.org/contributor-roles/validation/): David Haberthür
-- [Visualization](https://credit.niso.org/contributor-roles/visualization/): David Haberthür
-- [Writing – original draft](https://credit.niso.org/contributor-roles/writing---original-draft/): David Haberthür
-- [Writing – review & editing](https://credit.niso.org/contributor-roles/writing---review-&-editing/): David Haberthür
+- [Conceptualization](https://credit.niso.org/contributor-roles/conceptualization/): Jane Doe
+- [Data curation](https://credit.niso.org/contributor-roles/data-curation/): David Haberthür, Jane Doe
+- [Formal analysis](https://credit.niso.org/contributor-roles/formal-analysis/): David Haberthür, Jane Doe
+- [Funding acquisition](https://credit.niso.org/contributor-roles/funding-acquisition/): Jane Doe
+- [Investigation](https://credit.niso.org/contributor-roles/investigation/): David Haberthür, Jane Doe
+- [Methodology](https://credit.niso.org/contributor-roles/methodology/): David Haberthür, Jane Doe
+- [Project administration](https://credit.niso.org/contributor-roles/project-administration/): Jane Doe
+- [Resources](https://credit.niso.org/contributor-roles/resources/): Jane Doe
+- [Software](https://credit.niso.org/contributor-roles/software/): David Haberthür, Jane Doe
+- [Supervision](https://credit.niso.org/contributor-roles/supervision/): Jane Doe
+- [Validation](https://credit.niso.org/contributor-roles/validation/): David Haberthür, Jane Doe
+- [Visualization](https://credit.niso.org/contributor-roles/visualization/): David Haberthür, Jane Doe
+- [Writing – original draft](https://credit.niso.org/contributor-roles/writing---original-draft/): David Haberthür, Jane Doe
+- [Writing – review & editing](https://credit.niso.org/contributor-roles/writing---review-&-editing/): David Haberthür, Jane Doe
 
 
 
 ## Competing Interests
 
+|Author|Competing Interests|Last Reviewed|
+|---|---|---|
+|David Haberthür|None|2025-06-27|
+|Jane Doe|Employed by a company that could lead to a conflict of interest.|2025-06-27|
 
 ## Acknowledgements
 
