@@ -25,4 +25,7 @@ authors:
       - Visualization
       - Writing – original draft
       - Writing – review & editing
+    coi:
+      string: "None"
+      lastapproved: !!str 2025-06-27
     corresponding: false
