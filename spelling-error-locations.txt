@@ -1,2 +1,5 @@
+content/03.methods.md:4:anesthesized
+content/03.methods.md:9:SkyScan
+content/03.methods.md:13:Jupyter
 content/07.code_availability.md:3:Jupyter
 content/09.author_contributions.md:7:curation

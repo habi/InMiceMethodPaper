@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-06-27" />
   <meta name="citation_publication_date" content="2025-06-27" />
   <meta property="article:published_time" content="2025-06-27" />
-  <meta name="dc.modified" content="2025-06-27T08:00:45+00:00" />
-  <meta property="article:modified_time" content="2025-06-27T08:00:45+00:00" />
+  <meta name="dc.modified" content="2025-06-27T11:50:34+00:00" />
+  <meta property="article:modified_time" content="2025-06-27T11:50:34+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_pdf_url" content="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/11028968381a3a02a1a466776f3665fb058f0a03/" />
-  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/11028968381a3a02a1a466776f3665fb058f0a03/" />
-  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/11028968381a3a02a1a466776f3665fb058f0a03/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/cb0d9355ec3e0acf40c6d3252fb89e493adc2498/" />
+  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/cb0d9355ec3e0acf40c6d3252fb89e493adc2498/" />
+  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/cb0d9355ec3e0acf40c6d3252fb89e493adc2498/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/InMiceMethodPaper/v/11028968381a3a02a1a466776f3665fb058f0a03/))
+([permalink](https://habi.github.io/InMiceMethodPaper/v/cb0d9355ec3e0acf40c6d3252fb89e493adc2498/))
 was automatically generated
-from [habi/InMiceMethodPaper@1102896](https://github.com/habi/InMiceMethodPaper/tree/11028968381a3a02a1a466776f3665fb058f0a03)
+from [habi/InMiceMethodPaper@cb0d935](https://github.com/habi/InMiceMethodPaper/tree/cb0d9355ec3e0acf40c6d3252fb89e493adc2498)
 on June 27, 2025.
 </em></small>
 
@@ -122,6 +122,17 @@ Jane Doe \<jane@example.com\>.
 
 ## Methods {.page_break_before}
 
+## Sample preparation
+- Mice were anesthesized
+- Mice were decapitated
+- Mouse skulls were stored in ...
+
+## Tomographic imaging
+- SkyScan 1272 with sample changer
+- *All* log files available here: https://github.unibe.ch/david-haberthuer/InMice/tree/main/logfiles
+
+# Image processing
+- *Jupyter* [@https://eprints.soton.ac.uk/403913] notebooks, available here: https://github.unibe.ch/david-haberthuer/InMice/, for reproducible research.
 
 ## Data Records
 
