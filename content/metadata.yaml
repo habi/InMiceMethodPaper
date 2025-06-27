@@ -29,3 +29,31 @@ authors:
       string: "None"
       lastapproved: !!str 2025-06-27
     corresponding: false
+  - name: Jane Doe
+    initials: JD
+    orcid: 0000-0001-2345-6789
+    github: janedoe
+    email: jane@example.com
+    affiliations:
+      - Exemplary institute, Some University, 123 Example St, City, Country
+    contributions:
+      - Conceptualization
+      - Data curation
+      - Formal analysis
+      - Funding acquisition
+      - Investigation
+      - Methodology
+      - Project administration
+      - Resources
+      - Software
+      - Supervision
+      - Validation
+      - Visualization
+      - Writing – original draft
+      - Writing – review & editing
+    funders:
+      - some exemplary institution (Grant 123-456-789)
+    coi:
+      string: "Employed by a company that could lead to a conflict of interest."
+      lastapproved: !!str 2025-06-27
+    corresponding: true
