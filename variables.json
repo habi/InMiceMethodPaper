@@ -7,12 +7,12 @@
       "mouse"
     ],
     "lang": "en-US",
-    "date-meta": "2025-06-27",
+    "date-meta": "2025-06-30",
     "author-meta": [
       "David Haberthür",
       "Jane Doe"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2025-06-27\" />\n<meta name=\"citation_publication_date\" content=\"2025-06-27\" />\n<meta property=\"article:published_time\" content=\"2025-06-27\" />\n<meta name=\"dc.modified\" content=\"2025-06-27T11:50:34+00:00\" />\n<meta property=\"article:modified_time\" content=\"2025-06-27T11:50:34+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberthür\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"citation_author\" content=\"Jane Doe\" />\n<meta name=\"citation_author_institution\" content=\"Exemplary institute, Some University, 123 Example St, City, Country\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-2345-6789\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/InMiceMethodPaper/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/InMiceMethodPaper/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/InMiceMethodPaper/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/InMiceMethodPaper/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/InMiceMethodPaper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/InMiceMethodPaper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/InMiceMethodPaper/v/cb0d9355ec3e0acf40c6d3252fb89e493adc2498/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/InMiceMethodPaper/v/cb0d9355ec3e0acf40c6d3252fb89e493adc2498/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/InMiceMethodPaper/v/cb0d9355ec3e0acf40c6d3252fb89e493adc2498/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2025-06-30\" />\n<meta name=\"citation_publication_date\" content=\"2025-06-30\" />\n<meta property=\"article:published_time\" content=\"2025-06-30\" />\n<meta name=\"dc.modified\" content=\"2025-06-30T13:33:18+00:00\" />\n<meta property=\"article:modified_time\" content=\"2025-06-30T13:33:18+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberthür\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"citation_author\" content=\"Jane Doe\" />\n<meta name=\"citation_author_institution\" content=\"Exemplary institute, Some University, 123 Example St, City, Country\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-2345-6789\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/InMiceMethodPaper/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/InMiceMethodPaper/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/InMiceMethodPaper/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/InMiceMethodPaper/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/InMiceMethodPaper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/InMiceMethodPaper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/InMiceMethodPaper/v/86ea46da9678d304cd681f1d7781934f848b5a04/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/InMiceMethodPaper/v/86ea46da9678d304cd681f1d7781934f848b5a04/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/InMiceMethodPaper/v/86ea46da9678d304cd681f1d7781934f848b5a04/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -22,10 +22,10 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "2025-06-27",
-    "date_long": "June 27, 2025",
-    "generated": "2025-06-27T11:50:34+00:00",
-    "generated_date_long": "June 27, 2025",
+    "date": "2025-06-30",
+    "date_long": "June 30, 2025",
+    "generated": "2025-06-30T13:33:18+00:00",
+    "generated_date_long": "June 30, 2025",
     "randomize_author_order": false,
     "authors": [
       {
@@ -44,6 +44,7 @@
           "Formal analysis",
           "Investigation",
           "Methodology",
+          "Project administration",
           "Software",
           "Validation",
           "Visualization",
@@ -112,15 +113,15 @@
       "repo_slug": "habi/InMiceMethodPaper",
       "repo_owner": "habi",
       "repo_name": "InMiceMethodPaper",
-      "commit": "cb0d9355ec3e0acf40c6d3252fb89e493adc2498",
-      "triggering_commit": "cb0d9355ec3e0acf40c6d3252fb89e493adc2498",
-      "build_url": "https://github.com/habi/InMiceMethodPaper/commit/cb0d9355ec3e0acf40c6d3252fb89e493adc2498/checks",
-      "job_url": "https://github.com/habi/InMiceMethodPaper/actions/runs/15925552161"
+      "commit": "86ea46da9678d304cd681f1d7781934f848b5a04",
+      "triggering_commit": "86ea46da9678d304cd681f1d7781934f848b5a04",
+      "build_url": "https://github.com/habi/InMiceMethodPaper/commit/86ea46da9678d304cd681f1d7781934f848b5a04/checks",
+      "job_url": "https://github.com/habi/InMiceMethodPaper/actions/runs/15974347098"
     },
     "html_url": "https://habi.github.io/InMiceMethodPaper/",
     "pdf_url": "https://habi.github.io/InMiceMethodPaper/manuscript.pdf",
-    "html_url_versioned": "https://habi.github.io/InMiceMethodPaper/v/cb0d9355ec3e0acf40c6d3252fb89e493adc2498/",
-    "pdf_url_versioned": "https://habi.github.io/InMiceMethodPaper/v/cb0d9355ec3e0acf40c6d3252fb89e493adc2498/manuscript.pdf",
+    "html_url_versioned": "https://habi.github.io/InMiceMethodPaper/v/86ea46da9678d304cd681f1d7781934f848b5a04/",
+    "pdf_url_versioned": "https://habi.github.io/InMiceMethodPaper/v/86ea46da9678d304cd681f1d7781934f848b5a04/manuscript.pdf",
     "manubot_version": "0.6.1",
     "rootstock_commit": "ca748bf4e80a830d7bee69a20b1fae18e028d9e6",
     "manuscript_stats": {

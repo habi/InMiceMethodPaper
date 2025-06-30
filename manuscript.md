@@ -5,7 +5,7 @@ keywords:
 - bone
 - mouse
 lang: en-US
-date-meta: '2025-06-27'
+date-meta: '2025-06-30'
 author-meta:
 - David Haberthür
 - Jane Doe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2025-06-27" />
-  <meta name="citation_publication_date" content="2025-06-27" />
-  <meta property="article:published_time" content="2025-06-27" />
-  <meta name="dc.modified" content="2025-06-27T11:50:34+00:00" />
-  <meta property="article:modified_time" content="2025-06-27T11:50:34+00:00" />
+  <meta name="dc.date" content="2025-06-30" />
+  <meta name="citation_publication_date" content="2025-06-30" />
+  <meta property="article:published_time" content="2025-06-30" />
+  <meta name="dc.modified" content="2025-06-30T13:33:18+00:00" />
+  <meta property="article:modified_time" content="2025-06-30T13:33:18+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_pdf_url" content="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/cb0d9355ec3e0acf40c6d3252fb89e493adc2498/" />
-  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/cb0d9355ec3e0acf40c6d3252fb89e493adc2498/" />
-  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/cb0d9355ec3e0acf40c6d3252fb89e493adc2498/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/86ea46da9678d304cd681f1d7781934f848b5a04/" />
+  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/86ea46da9678d304cd681f1d7781934f848b5a04/" />
+  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/86ea46da9678d304cd681f1d7781934f848b5a04/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +67,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/InMiceMethodPaper/v/cb0d9355ec3e0acf40c6d3252fb89e493adc2498/))
+([permalink](https://habi.github.io/InMiceMethodPaper/v/86ea46da9678d304cd681f1d7781934f848b5a04/))
 was automatically generated
-from [habi/InMiceMethodPaper@cb0d935](https://github.com/habi/InMiceMethodPaper/tree/cb0d9355ec3e0acf40c6d3252fb89e493adc2498)
-on June 27, 2025.
+from [habi/InMiceMethodPaper@86ea46d](https://github.com/habi/InMiceMethodPaper/tree/86ea46da9678d304cd681f1d7781934f848b5a04)
+on June 30, 2025.
 </em></small>
 
 
@@ -169,7 +169,7 @@ Jane Doe \<jane@example.com\>.
 - [Funding acquisition](https://credit.niso.org/contributor-roles/funding-acquisition/): Jane Doe
 - [Investigation](https://credit.niso.org/contributor-roles/investigation/): David Haberthür, Jane Doe
 - [Methodology](https://credit.niso.org/contributor-roles/methodology/): David Haberthür, Jane Doe
-- [Project administration](https://credit.niso.org/contributor-roles/project-administration/): Jane Doe
+- [Project administration](https://credit.niso.org/contributor-roles/project-administration/): David Haberthür, Jane Doe
 - [Resources](https://credit.niso.org/contributor-roles/resources/): Jane Doe
 - [Software](https://credit.niso.org/contributor-roles/software/): David Haberthür, Jane Doe
 - [Supervision](https://credit.niso.org/contributor-roles/supervision/): Jane Doe
