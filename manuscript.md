@@ -5,7 +5,7 @@ keywords:
 - bone
 - mouse
 lang: en-US
-date-meta: '2025-06-30'
+date-meta: '2025-07-02'
 author-meta:
 - David Haberthür
 - Jane Doe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2025-06-30" />
-  <meta name="citation_publication_date" content="2025-06-30" />
-  <meta property="article:published_time" content="2025-06-30" />
-  <meta name="dc.modified" content="2025-06-30T13:33:18+00:00" />
-  <meta property="article:modified_time" content="2025-06-30T13:33:18+00:00" />
+  <meta name="dc.date" content="2025-07-02" />
+  <meta name="citation_publication_date" content="2025-07-02" />
+  <meta property="article:published_time" content="2025-07-02" />
+  <meta name="dc.modified" content="2025-07-02T07:34:38+00:00" />
+  <meta property="article:modified_time" content="2025-07-02T07:34:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_pdf_url" content="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/86ea46da9678d304cd681f1d7781934f848b5a04/" />
-  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/86ea46da9678d304cd681f1d7781934f848b5a04/" />
-  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/86ea46da9678d304cd681f1d7781934f848b5a04/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/e1e01e73a35607aeb713309f05cff733bc54f11d/" />
+  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/e1e01e73a35607aeb713309f05cff733bc54f11d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/e1e01e73a35607aeb713309f05cff733bc54f11d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +67,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/InMiceMethodPaper/v/86ea46da9678d304cd681f1d7781934f848b5a04/))
+([permalink](https://habi.github.io/InMiceMethodPaper/v/e1e01e73a35607aeb713309f05cff733bc54f11d/))
 was automatically generated
-from [habi/InMiceMethodPaper@86ea46d](https://github.com/habi/InMiceMethodPaper/tree/86ea46da9678d304cd681f1d7781934f848b5a04)
-on June 30, 2025.
+from [habi/InMiceMethodPaper@e1e01e7](https://github.com/habi/InMiceMethodPaper/tree/e1e01e73a35607aeb713309f05cff733bc54f11d)
+on July 2, 2025.
 </em></small>
 
 
@@ -118,6 +118,9 @@ Jane Doe \<jane@example.com\>.
 
 
 ## Background & Summary
+
+We scanned a *lot* of different mouse strains and so-called hybrids, both male and female.
+One scan for each strain, each hybrid and each sex gives already 90 samples.
 
 
 ## Methods {.page_break_before}
