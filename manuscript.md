@@ -5,7 +5,7 @@ keywords:
 - bone
 - mouse
 lang: en-US
-date-meta: '2025-07-02'
+date-meta: '2025-07-03'
 author-meta:
 - David Haberthür
 - Jane Doe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2025-07-02" />
-  <meta name="citation_publication_date" content="2025-07-02" />
-  <meta property="article:published_time" content="2025-07-02" />
-  <meta name="dc.modified" content="2025-07-02T07:34:38+00:00" />
-  <meta property="article:modified_time" content="2025-07-02T07:34:38+00:00" />
+  <meta name="dc.date" content="2025-07-03" />
+  <meta name="citation_publication_date" content="2025-07-03" />
+  <meta property="article:published_time" content="2025-07-03" />
+  <meta name="dc.modified" content="2025-07-03T07:01:45+00:00" />
+  <meta property="article:modified_time" content="2025-07-03T07:01:45+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_pdf_url" content="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/e1e01e73a35607aeb713309f05cff733bc54f11d/" />
-  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/e1e01e73a35607aeb713309f05cff733bc54f11d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/e1e01e73a35607aeb713309f05cff733bc54f11d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/f0befe750d70219b92b8a36b1021d18bedc093eb/" />
+  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/f0befe750d70219b92b8a36b1021d18bedc093eb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/f0befe750d70219b92b8a36b1021d18bedc093eb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +67,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/InMiceMethodPaper/v/e1e01e73a35607aeb713309f05cff733bc54f11d/))
+([permalink](https://habi.github.io/InMiceMethodPaper/v/f0befe750d70219b92b8a36b1021d18bedc093eb/))
 was automatically generated
-from [habi/InMiceMethodPaper@e1e01e7](https://github.com/habi/InMiceMethodPaper/tree/e1e01e73a35607aeb713309f05cff733bc54f11d)
-on July 2, 2025.
+from [habi/InMiceMethodPaper@f0befe7](https://github.com/habi/InMiceMethodPaper/tree/f0befe750d70219b92b8a36b1021d18bedc093eb)
+on July 3, 2025.
 </em></small>
 
 
@@ -125,17 +125,21 @@ One scan for each strain, each hybrid and each sex gives already 90 samples.
 
 ## Methods {.page_break_before}
 
-## Sample preparation
+### Sample preparation
+
 - Mice were anesthesized
 - Mice were decapitated
 - Mouse skulls were stored in ...
 
-## Tomographic imaging
+### Tomographic imaging
+
 - SkyScan 1272 with sample changer
 - *All* log files available here: https://github.unibe.ch/david-haberthuer/InMice/tree/main/logfiles
 
-# Image processing
+### Image processing
+
 - *Jupyter* [@https://eprints.soton.ac.uk/403913] notebooks, available here: https://github.unibe.ch/david-haberthuer/InMice/, for reproducible research.
+
 
 ## Data Records
 
@@ -143,7 +147,7 @@ One scan for each strain, each hybrid and each sex gives already 90 samples.
 ## Technical Validation
 
 
-## Usage Notes 
+## Usage Notes
 
 
 ## Code Availability
