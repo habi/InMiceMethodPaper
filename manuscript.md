@@ -5,7 +5,7 @@ keywords:
 - bone
 - mouse
 lang: en-US
-date-meta: '2025-07-17'
+date-meta: '2025-08-15'
 author-meta:
 - David Haberthür
 - Larisa Petra Kaija
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2025-07-17" />
-  <meta name="citation_publication_date" content="2025-07-17" />
-  <meta property="article:published_time" content="2025-07-17" />
-  <meta name="dc.modified" content="2025-07-17T15:00:43+00:00" />
-  <meta property="article:modified_time" content="2025-07-17T15:00:43+00:00" />
+  <meta name="dc.date" content="2025-08-15" />
+  <meta name="citation_publication_date" content="2025-08-15" />
+  <meta property="article:published_time" content="2025-08-15" />
+  <meta name="dc.modified" content="2025-08-15T11:58:59+00:00" />
+  <meta property="article:modified_time" content="2025-08-15T11:58:59+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_pdf_url" content="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/b2b46739aa8c2704ca179a5e4770c7c04d02f22a/" />
-  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/b2b46739aa8c2704ca179a5e4770c7c04d02f22a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/b2b46739aa8c2704ca179a5e4770c7c04d02f22a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/d62660ceac18eac954082294369ccd3a9c9476c5/" />
+  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/d62660ceac18eac954082294369ccd3a9c9476c5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/d62660ceac18eac954082294369ccd3a9c9476c5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +67,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/InMiceMethodPaper/v/b2b46739aa8c2704ca179a5e4770c7c04d02f22a/))
+([permalink](https://habi.github.io/InMiceMethodPaper/v/d62660ceac18eac954082294369ccd3a9c9476c5/))
 was automatically generated
-from [habi/InMiceMethodPaper@b2b4673](https://github.com/habi/InMiceMethodPaper/tree/b2b46739aa8c2704ca179a5e4770c7c04d02f22a)
-on July 17, 2025.
+from [habi/InMiceMethodPaper@d62660c](https://github.com/habi/InMiceMethodPaper/tree/d62660ceac18eac954082294369ccd3a9c9476c5)
+on August 15, 2025.
 </em></small>
 
 
@@ -131,6 +131,7 @@ One scan for each strain, each hybrid and each sex gives already 90 samples.
 
 - SkyScan 1272 with sample changer
 - *All* log files available here: https://github.unibe.ch/david-haberthuer/InMice/tree/main/logfiles
+- Report scaning settings and reconstruction parameter data according to [@doi:doi.org/10.1016/j.tmater.2023.100015]
 
 ### Image processing
 
