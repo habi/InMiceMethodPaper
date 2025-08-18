@@ -5,9 +5,10 @@ keywords:
 - bone
 - mouse
 lang: en-US
-date-meta: '2025-08-15'
+date-meta: '2025-08-18'
 author-meta:
 - David Haberthür
+- Pui Ching Chu
 - Larisa Petra Kaija
 header-includes: |
   <!--
@@ -20,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2025-08-15" />
-  <meta name="citation_publication_date" content="2025-08-15" />
-  <meta property="article:published_time" content="2025-08-15" />
-  <meta name="dc.modified" content="2025-08-15T11:58:59+00:00" />
-  <meta property="article:modified_time" content="2025-08-15T11:58:59+00:00" />
+  <meta name="dc.date" content="2025-08-18" />
+  <meta name="citation_publication_date" content="2025-08-18" />
+  <meta property="article:published_time" content="2025-08-18" />
+  <meta name="dc.modified" content="2025-08-18T11:43:09+00:00" />
+  <meta property="article:modified_time" content="2025-08-18T11:43:09+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -34,6 +35,9 @@ header-includes: |
   <meta name="citation_author" content="David Haberthür" />
   <meta name="citation_author_institution" content="Institute of Anatomy, University of Bern, Baltzerstrasse 2, 3012 Bern, Switzerland" />
   <meta name="citation_author_orcid" content="0000-0003-3388-9187" />
+  <meta name="citation_author" content="Pui Ching Chu" />
+  <meta name="citation_author_institution" content="Animal Welfare Division, Veterinary Public Health Institute, University of Bern, Länggassstrasse 120, CH-3012 Bern, Switzerland" />
+  <meta name="citation_author_orcid" content="0009-0006-5408-300X" />
   <meta name="citation_author" content="Larisa Petra Kaija" />
   <meta name="citation_author_institution" content="Animal Welfare Division, Veterinary Public Health Institute, University of Bern, Länggassstrasse 120, 3012 Bern, Switzerland" />
   <meta name="citation_author_orcid" content="0009-0001-1871-5915" />
@@ -43,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_pdf_url" content="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/d62660ceac18eac954082294369ccd3a9c9476c5/" />
-  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/d62660ceac18eac954082294369ccd3a9c9476c5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/d62660ceac18eac954082294369ccd3a9c9476c5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/46eb2e1f079e011f331ff010930b05a18f97ddcc/" />
+  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/46eb2e1f079e011f331ff010930b05a18f97ddcc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/46eb2e1f079e011f331ff010930b05a18f97ddcc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +71,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/InMiceMethodPaper/v/d62660ceac18eac954082294369ccd3a9c9476c5/))
+([permalink](https://habi.github.io/InMiceMethodPaper/v/46eb2e1f079e011f331ff010930b05a18f97ddcc/))
 was automatically generated
-from [habi/InMiceMethodPaper@d62660c](https://github.com/habi/InMiceMethodPaper/tree/d62660ceac18eac954082294369ccd3a9c9476c5)
-on August 15, 2025.
+from [habi/InMiceMethodPaper@46eb2e1](https://github.com/habi/InMiceMethodPaper/tree/46eb2e1f079e011f331ff010930b05a18f97ddcc)
+on August 18, 2025.
 </em></small>
 
 
@@ -90,6 +94,18 @@ on August 15, 2025.
     <br>
   <small>
      Institute of Anatomy, University of Bern, Baltzerstrasse 2, 3012 Bern, Switzerland
+  </small>
+
++ **Pui Ching Chu**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0009-0006-5408-300X](https://orcid.org/0009-0006-5408-300X)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [puipuichu](https://github.com/puipuichu)
+    <br>
+  <small>
+     Animal Welfare Division, Veterinary Public Health Institute, University of Bern, Länggassstrasse 120, CH-3012 Bern, Switzerland
+     · Funded by Swiss National Science Foundation (SNSF) (Grant 310030_219196)
   </small>
 
 + **Larisa Petra Kaija**
@@ -169,14 +185,15 @@ One scan for each strain, each hybrid and each sex gives already 90 samples.
 
 - [Data curation](https://credit.niso.org/contributor-roles/data-curation/): David Haberthür, Larisa Petra Kaija
 - [Formal analysis](https://credit.niso.org/contributor-roles/formal-analysis/): David Haberthür
-- [Investigation](https://credit.niso.org/contributor-roles/investigation/): David Haberthür, Larisa Petra Kaija
-- [Methodology](https://credit.niso.org/contributor-roles/methodology/): David Haberthür, Larisa Petra Kaija
-- [Project administration](https://credit.niso.org/contributor-roles/project-administration/): David Haberthür
+- [Investigation](https://credit.niso.org/contributor-roles/investigation/): David Haberthür, Pui Ching Chu, Larisa Petra Kaija
+- [Methodology](https://credit.niso.org/contributor-roles/methodology/): David Haberthür, Pui Ching Chu, Larisa Petra Kaija
+- [Project administration](https://credit.niso.org/contributor-roles/project-administration/): David Haberthür, Pui Ching Chu
+- [Resources](https://credit.niso.org/contributor-roles/resources/): Pui Ching Chu
 - [Software](https://credit.niso.org/contributor-roles/software/): David Haberthür
-- [Validation](https://credit.niso.org/contributor-roles/validation/): David Haberthür, Larisa Petra Kaija
+- [Validation](https://credit.niso.org/contributor-roles/validation/): David Haberthür, Pui Ching Chu, Larisa Petra Kaija
 - [Visualization](https://credit.niso.org/contributor-roles/visualization/): David Haberthür
 - [Writing – original draft](https://credit.niso.org/contributor-roles/writing---original-draft/): David Haberthür
-- [Writing – review & editing](https://credit.niso.org/contributor-roles/writing---review-&-editing/): David Haberthür, Larisa Petra Kaija
+- [Writing – review & editing](https://credit.niso.org/contributor-roles/writing---review-&-editing/): David Haberthür, Pui Ching Chu, Larisa Petra Kaija
 
 
 
@@ -185,6 +202,7 @@ One scan for each strain, each hybrid and each sex gives already 90 samples.
 |Author|Competing Interests|Last Reviewed|
 |---|---|---|
 |David Haberthür|None|2025-06-27|
+|Pui Ching Chu|None|2025-06-27|
 |Larisa Petra Kaija|None||
 
 
