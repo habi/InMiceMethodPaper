@@ -30,6 +30,26 @@ authors:
       string: "None"
       lastapproved: !!str 2025-06-27
     corresponding: false
+   - name: Pui Ching Chu
+     initials: PC
+     orcid: 0009-0006-5408-300X
+     github: puipuichu
+     email: pui.chu@unibe.ch
+     affiliations:
+       - Animal Welfare Division, Veterinary Public Health Institute, University of Bern, Länggassstrasse 120, CH-3012 Bern, Switzerland
+     contributions:
+       - Investigation
+       - Methodology
+       - Project administration
+       - Resources
+       - Validation
+       - Writing – review & editing
+     funders:
+       - Swiss National Science Foundation (SNSF) (Grant 310030_219196)
+     coi:
+       string: "None"
+       lastapproved: !!str 2025-06-27
+      corresponding: false
   - name: Larisa Petra Kaija
     initials: LPK
     orcid: 0009-0001-1871-5915
