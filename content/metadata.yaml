@@ -66,6 +66,41 @@ authors:
     coi:
       string: "None"
       lastapproved: !!str
+    corresponding: false
+  - name: Bernhard Voelkl
+    initials: BV
+    orcid: 0000-0001-5454-2508
+    github: BernhardVoelkl
+    email: bernhard.voelkl@unibe.ch
+    affiliations:
+      - Animal Welfare Division, Veterinary Public Health Institute, University of Bern, Länggassstrasse 120, 3012 Bern, Switzerland
+    contributions:
+      - Conceptualization
+      - Funding acquisition
+      - Formal analysis
+      - Methodology
+      - Project administration
+      - Writing – review & editing
+    coi:
+      string: "None"
+      lastapproved: !!str 2025-08-19
+    corresponding: false
+  - name: Hanno Würbel
+    initials: HW
+    orcid: 0000-0002-2934-3010
+    github: 
+    email: hanno wuerbel@unibe.ch
+    affiliations:
+      - Animal Welfare Division, Veterinary Public Health Institute, University of Bern, Länggassstrasse 120, 3012 Bern, Switzerland
+    contributions:
+      - Conceptualization
+      - Funding acquisition
+      - Project administration
+      - Writing – review & editing
+    coi:
+      string: "None"
+      lastapproved: !!str 2025-08-19
+    corresponding: false
   # - name: Jane Doe
   #   initials: JD
   #   orcid: 0000-0001-2345-6789
