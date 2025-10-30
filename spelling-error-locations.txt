@@ -1,6 +1,13 @@
-content/03.methods.md:5:anesthesized
-content/03.methods.md:11:SkyScan
-content/03.methods.md:13:scaning
-content/03.methods.md:17:Jupyter
+content/03.methods.md:7:EMA
+content/03.methods.md:12:SkyScan
+content/03.methods.md:14:scaning
+content/03.methods.md:19:aquired
+content/03.methods.md:19:logfile
+content/03.methods.md:20:aquisition
+content/03.methods.md:21:aquired
+content/03.methods.md:22:acquisiton
+content/03.methods.md:22:inadvertedly
+content/03.methods.md:26:Jupyter
+content/03.methods.md:27:uncropped
 content/07.code_availability.md:3:Jupyter
 content/09.author_contributions.md:7:curation
