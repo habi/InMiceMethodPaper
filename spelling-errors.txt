@@ -1,14 +1,16 @@
 acquisiton
-anesthesized
 aquired
 aquisition
 Baltzerstrasse
+Bernhard
+BernhardVoelkl
 Ching
 Chu
 curation
 EMA
 Haberthür
 habi
+Hanno
 inadvertedly
 Jupyter
 Kaija
@@ -22,3 +24,5 @@ scaning
 SkyScan
 SNSF
 uncropped
+Voelkl
+Würbel

@@ -1,4 +1,3 @@
-content/03.methods.md:5:anesthesized
 content/03.methods.md:7:EMA
 content/03.methods.md:12:SkyScan
 content/03.methods.md:14:scaning

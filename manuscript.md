@@ -10,6 +10,8 @@ author-meta:
 - David Haberthür
 - Pui Ching Chu
 - Larisa Petra Kaija
+- Bernhard Voelkl
+- Hanno Würbel
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -24,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2025-10-30" />
   <meta name="citation_publication_date" content="2025-10-30" />
   <meta property="article:published_time" content="2025-10-30" />
-  <meta name="dc.modified" content="2025-10-30T15:29:56+00:00" />
-  <meta property="article:modified_time" content="2025-10-30T15:29:56+00:00" />
+  <meta name="dc.modified" content="2025-10-30T16:34:43+00:00" />
+  <meta property="article:modified_time" content="2025-10-30T16:34:43+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -41,15 +43,21 @@ header-includes: |
   <meta name="citation_author" content="Larisa Petra Kaija" />
   <meta name="citation_author_institution" content="Animal Welfare Division, Veterinary Public Health Institute, University of Bern, Länggassstrasse 120, 3012 Bern, Switzerland" />
   <meta name="citation_author_orcid" content="0009-0001-1871-5915" />
+  <meta name="citation_author" content="Bernhard Voelkl" />
+  <meta name="citation_author_institution" content="Animal Welfare Division, Veterinary Public Health Institute, University of Bern, Länggassstrasse 120, 3012 Bern, Switzerland" />
+  <meta name="citation_author_orcid" content="0000-0001-5454-2508" />
+  <meta name="citation_author" content="Hanno Würbel" />
+  <meta name="citation_author_institution" content="Animal Welfare Division, Veterinary Public Health Institute, University of Bern, Länggassstrasse 120, 3012 Bern, Switzerland" />
+  <meta name="citation_author_orcid" content="0000-0002-2934-3010" />
   <link rel="canonical" href="https://habi.github.io/InMiceMethodPaper/" />
   <meta property="og:url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta property="twitter:url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_fulltext_html_url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_pdf_url" content="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/208b96582ca4724e54046d3a35395f50f95138bc/" />
-  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/208b96582ca4724e54046d3a35395f50f95138bc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/208b96582ca4724e54046d3a35395f50f95138bc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/33ccd1317c08663cafa2fac99988986a8833efa8/" />
+  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/33ccd1317c08663cafa2fac99988986a8833efa8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/33ccd1317c08663cafa2fac99988986a8833efa8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,9 +79,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/InMiceMethodPaper/v/208b96582ca4724e54046d3a35395f50f95138bc/))
+([permalink](https://habi.github.io/InMiceMethodPaper/v/33ccd1317c08663cafa2fac99988986a8833efa8/))
 was automatically generated
-from [habi/InMiceMethodPaper@208b965](https://github.com/habi/InMiceMethodPaper/tree/208b96582ca4724e54046d3a35395f50f95138bc)
+from [habi/InMiceMethodPaper@33ccd13](https://github.com/habi/InMiceMethodPaper/tree/33ccd1317c08663cafa2fac99988986a8833efa8)
 on October 30, 2025.
 </em></small>
 
@@ -119,6 +127,26 @@ on October 30, 2025.
      Animal Welfare Division, Veterinary Public Health Institute, University of Bern, Länggassstrasse 120, 3012 Bern, Switzerland
   </small>
 
++ **Bernhard Voelkl**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-5454-2508](https://orcid.org/0000-0001-5454-2508)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [BernhardVoelkl](https://github.com/BernhardVoelkl)
+    <br>
+  <small>
+     Animal Welfare Division, Veterinary Public Health Institute, University of Bern, Länggassstrasse 120, 3012 Bern, Switzerland
+  </small>
+
++ **Hanno Würbel**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-2934-3010](https://orcid.org/0000-0002-2934-3010)
+    <br>
+  <small>
+     Animal Welfare Division, Veterinary Public Health Institute, University of Bern, Länggassstrasse 120, 3012 Bern, Switzerland
+  </small>
+
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/habi/InMiceMethodPaper/issues)
@@ -139,7 +167,7 @@ One scan for each strain, each hybrid and each sex gives already 90 samples.
 
 ### Sample preparation
 
-- Mice were anesthesized
+- Mice were euthanized
 - Mice were decapitated
 - Mouse skulls were stored in EMA
 - Separated into 4 batches of approximately 110 animals, labeled as B`batch_number`_`animal number`A and B`batch_number`_`animal number`B.
@@ -195,17 +223,19 @@ One scan for each strain, each hybrid and each sex gives already 90 samples.
 
 
 
+- [Conceptualization](https://credit.niso.org/contributor-roles/conceptualization/): Bernhard Voelkl, Hanno Würbel
 - [Data curation](https://credit.niso.org/contributor-roles/data-curation/): David Haberthür, Larisa Petra Kaija
-- [Formal analysis](https://credit.niso.org/contributor-roles/formal-analysis/): David Haberthür
+- [Formal analysis](https://credit.niso.org/contributor-roles/formal-analysis/): David Haberthür, Bernhard Voelkl
+- [Funding acquisition](https://credit.niso.org/contributor-roles/funding-acquisition/): Bernhard Voelkl, Hanno Würbel
 - [Investigation](https://credit.niso.org/contributor-roles/investigation/): David Haberthür, Pui Ching Chu, Larisa Petra Kaija
-- [Methodology](https://credit.niso.org/contributor-roles/methodology/): David Haberthür, Pui Ching Chu, Larisa Petra Kaija
-- [Project administration](https://credit.niso.org/contributor-roles/project-administration/): David Haberthür, Pui Ching Chu
+- [Methodology](https://credit.niso.org/contributor-roles/methodology/): David Haberthür, Pui Ching Chu, Larisa Petra Kaija, Bernhard Voelkl
+- [Project administration](https://credit.niso.org/contributor-roles/project-administration/): David Haberthür, Pui Ching Chu, Bernhard Voelkl, Hanno Würbel
 - [Resources](https://credit.niso.org/contributor-roles/resources/): Pui Ching Chu
 - [Software](https://credit.niso.org/contributor-roles/software/): David Haberthür
 - [Validation](https://credit.niso.org/contributor-roles/validation/): David Haberthür, Pui Ching Chu, Larisa Petra Kaija
 - [Visualization](https://credit.niso.org/contributor-roles/visualization/): David Haberthür
 - [Writing – original draft](https://credit.niso.org/contributor-roles/writing---original-draft/): David Haberthür
-- [Writing – review & editing](https://credit.niso.org/contributor-roles/writing---review-&-editing/): David Haberthür, Pui Ching Chu, Larisa Petra Kaija
+- [Writing – review & editing](https://credit.niso.org/contributor-roles/writing---review-&-editing/): David Haberthür, Pui Ching Chu, Larisa Petra Kaija, Bernhard Voelkl, Hanno Würbel
 
 
 
@@ -216,6 +246,8 @@ One scan for each strain, each hybrid and each sex gives already 90 samples.
 |David Haberthür|None|2025-06-27|
 |Pui Ching Chu|None|2025-06-27|
 |Larisa Petra Kaija|None||
+|Bernhard Voelkl|None|2025-08-19|
+|Hanno Würbel|None|2025-08-19|
 
 
 
