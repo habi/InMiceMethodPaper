@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2025-10-30" />
   <meta name="citation_publication_date" content="2025-10-30" />
   <meta property="article:published_time" content="2025-10-30" />
-  <meta name="dc.modified" content="2025-10-30T16:37:29+00:00" />
-  <meta property="article:modified_time" content="2025-10-30T16:37:29+00:00" />
+  <meta name="dc.modified" content="2025-10-30T16:44:33+00:00" />
+  <meta property="article:modified_time" content="2025-10-30T16:44:33+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -55,9 +55,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_pdf_url" content="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/6020dd3c1ce04d5d4f7acc85ba6c7a396d4257ec/" />
-  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/6020dd3c1ce04d5d4f7acc85ba6c7a396d4257ec/" />
-  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/6020dd3c1ce04d5d4f7acc85ba6c7a396d4257ec/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/b975601c8df559e7fd3b1d07f76a1be2389c67a3/" />
+  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/b975601c8df559e7fd3b1d07f76a1be2389c67a3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/b975601c8df559e7fd3b1d07f76a1be2389c67a3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -79,9 +79,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/InMiceMethodPaper/v/6020dd3c1ce04d5d4f7acc85ba6c7a396d4257ec/))
+([permalink](https://habi.github.io/InMiceMethodPaper/v/b975601c8df559e7fd3b1d07f76a1be2389c67a3/))
 was automatically generated
-from [habi/InMiceMethodPaper@6020dd3](https://github.com/habi/InMiceMethodPaper/tree/6020dd3c1ce04d5d4f7acc85ba6c7a396d4257ec)
+from [habi/InMiceMethodPaper@b975601](https://github.com/habi/InMiceMethodPaper/tree/b975601c8df559e7fd3b1d07f76a1be2389c67a3)
 on October 30, 2025.
 </em></small>
 
@@ -191,7 +191,7 @@ One scan for each strain, each hybrid and each sex gives already 90 samples.
   - Ingest complete, uncropped reconstructions with `dask` [@url:https://docs.dask.org/en/stable/]
   - Crop, based on axial MIPs
   - Save cropped data out as `.zarr`-files, ready to be loaded with `n5-ij` [@url:https://github.com/saalfeldlab/n5-ij] in Fiji [@doi:10.1038/nmeth.2019]
-  - Save in other formats, to either use 3D Slicer [@url:https://www.slicer.org/;@doidoi:10.1016/j.mri.2012.05.001] or Dragonfly [@url:https://dragonfly.comet.tech/]
+  - Save in other formats, to either use 3D Slicer [@url:https://www.slicer.org/;@doi:10.1016/j.mri.2012.05.001] or Dragonfly [@url:https://dragonfly.comet.tech/]
 
 ## Data Records
 
