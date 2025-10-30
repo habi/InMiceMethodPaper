@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2025-10-30" />
   <meta name="citation_publication_date" content="2025-10-30" />
   <meta property="article:published_time" content="2025-10-30" />
-  <meta name="dc.modified" content="2025-10-30T15:27:00+00:00" />
-  <meta property="article:modified_time" content="2025-10-30T15:27:00+00:00" />
+  <meta name="dc.modified" content="2025-10-30T15:29:56+00:00" />
+  <meta property="article:modified_time" content="2025-10-30T15:29:56+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_pdf_url" content="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/1a28e6c95f5d03bffcef6eb3dfa52de59c43c5b0/" />
-  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/1a28e6c95f5d03bffcef6eb3dfa52de59c43c5b0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/1a28e6c95f5d03bffcef6eb3dfa52de59c43c5b0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/208b96582ca4724e54046d3a35395f50f95138bc/" />
+  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/208b96582ca4724e54046d3a35395f50f95138bc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/208b96582ca4724e54046d3a35395f50f95138bc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,9 +71,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/InMiceMethodPaper/v/1a28e6c95f5d03bffcef6eb3dfa52de59c43c5b0/))
+([permalink](https://habi.github.io/InMiceMethodPaper/v/208b96582ca4724e54046d3a35395f50f95138bc/))
 was automatically generated
-from [habi/InMiceMethodPaper@1a28e6c](https://github.com/habi/InMiceMethodPaper/tree/1a28e6c95f5d03bffcef6eb3dfa52de59c43c5b0)
+from [habi/InMiceMethodPaper@208b965](https://github.com/habi/InMiceMethodPaper/tree/208b96582ca4724e54046d3a35395f50f95138bc)
 on October 30, 2025.
 </em></small>
 
@@ -139,7 +139,7 @@ One scan for each strain, each hybrid and each sex gives already 90 samples.
 
 ### Sample preparation
 
-- Mice were euthanized
+- Mice were anesthesized
 - Mice were decapitated
 - Mouse skulls were stored in EMA
 - Separated into 4 batches of approximately 110 animals, labeled as B`batch_number`_`animal number`A and B`batch_number`_`animal number`B.
