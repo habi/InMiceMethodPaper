@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2025-10-30" />
   <meta name="citation_publication_date" content="2025-10-30" />
   <meta property="article:published_time" content="2025-10-30" />
-  <meta name="dc.modified" content="2025-10-30T16:34:43+00:00" />
-  <meta property="article:modified_time" content="2025-10-30T16:34:43+00:00" />
+  <meta name="dc.modified" content="2025-10-30T16:37:29+00:00" />
+  <meta property="article:modified_time" content="2025-10-30T16:37:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -55,9 +55,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_pdf_url" content="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/33ccd1317c08663cafa2fac99988986a8833efa8/" />
-  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/33ccd1317c08663cafa2fac99988986a8833efa8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/33ccd1317c08663cafa2fac99988986a8833efa8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/6020dd3c1ce04d5d4f7acc85ba6c7a396d4257ec/" />
+  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/6020dd3c1ce04d5d4f7acc85ba6c7a396d4257ec/" />
+  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/6020dd3c1ce04d5d4f7acc85ba6c7a396d4257ec/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -79,9 +79,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/InMiceMethodPaper/v/33ccd1317c08663cafa2fac99988986a8833efa8/))
+([permalink](https://habi.github.io/InMiceMethodPaper/v/6020dd3c1ce04d5d4f7acc85ba6c7a396d4257ec/))
 was automatically generated
-from [habi/InMiceMethodPaper@33ccd13](https://github.com/habi/InMiceMethodPaper/tree/33ccd1317c08663cafa2fac99988986a8833efa8)
+from [habi/InMiceMethodPaper@6020dd3](https://github.com/habi/InMiceMethodPaper/tree/6020dd3c1ce04d5d4f7acc85ba6c7a396d4257ec)
 on October 30, 2025.
 </em></small>
 
@@ -167,32 +167,31 @@ One scan for each strain, each hybrid and each sex gives already 90 samples.
 
 ### Sample preparation
 
-- Mice were euthanized
-- Mice were decapitated
+- Mice were euthanized and decapitated
 - Mouse skulls were stored in EMA
 - Separated into 4 batches of approximately 110 animals, labeled as B`batch_number`_`animal number`A and B`batch_number`_`animal number`B.
 
 ### Tomographic imaging
 
 - SkyScan 1272 with sample changer
-- *All* log files available here: https://github.unibe.ch/david-haberthuer/InMice/tree/main/logfiles
+- _All_ log files available here: https://github.unibe.ch/david-haberthuer/InMice/tree/main/logfiles
 - Report scaning settings and reconstruction parameter data according to [@doi:10.1016/j.tmater.2023.100015]
-- Use a notebook to pull *all* the relevant data to report directly into the text here, or into a file that is loaded by `manubot`.
+- Use a notebook to pull _all_ the relevant data to report directly into the text here, or into a file that is loaded by `manubot`.
 
 ### QA
 
-- Use a collection of logfile wrangling code [@doi:10.5281/zenodo.15607944] to go through *all* the log files of all the aquired scans
-    - Use this to surface issues related to aquisition (wrong setting) and reconstruction
+- Use a collection of logfile wrangling code [@doi:10.5281/zenodo.15607944] to go through _all_ the log files of all the aquired scans
+  - Use this to surface issues related to aquisition (wrong setting) and reconstruction
 - Look at average and maximal brightness of (a subset of) all the projection images aquired
-    - Use this to surface issues related to acquisiton, e.g. sometimes the x-ray source inadvertedly shut down, or the counts were too low on the camera, etc.
+  - Use this to surface issues related to acquisiton, e.g. sometimes the x-ray source inadvertedly shut down, or the counts were too low on the camera, etc.
 
 ### Image processing
 
-- *Jupyter* [@https://eprints.soton.ac.uk/403913] notebooks, available here: https://github.unibe.ch/david-haberthuer/InMice/, for reproducible research.
-    - Ingest complete, uncropped reconstructions with `dask` [@url:https://docs.dask.org/en/stable/]
-    - Crop, based on axial MIPs
-    - Save cropped data out as `.zarr`-files, ready to be loaded with `n5-ij` [@url:https://github.com/saalfeldlab/n5-ij] in Fiji [@doi:10.1038/nmeth.2019]
-    - Save in other formats, to either use 3D Slicer [@url:https://www.slicer.org/;@doidoi:10.1016/j.mri.2012.05.001] or Dragonfly [@url:https://dragonfly.comet.tech/]
+- `Jupyter` [@https://eprints.soton.ac.uk/403913] notebooks, available here: https://github.unibe.ch/david-haberthuer/InMice/, for reproducible research.
+  - Ingest complete, uncropped reconstructions with `dask` [@url:https://docs.dask.org/en/stable/]
+  - Crop, based on axial MIPs
+  - Save cropped data out as `.zarr`-files, ready to be loaded with `n5-ij` [@url:https://github.com/saalfeldlab/n5-ij] in Fiji [@doi:10.1038/nmeth.2019]
+  - Save in other formats, to either use 3D Slicer [@url:https://www.slicer.org/;@doidoi:10.1016/j.mri.2012.05.001] or Dragonfly [@url:https://dragonfly.comet.tech/]
 
 ## Data Records
 
