@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/habi/InMiceMethodPaper/tree/gh-pages) branch hosts the contents of this directory at <https://habi.github.io/InMiceMethodPaper/>.
-The permalink for this webpage version is <https://habi.github.io/InMiceMethodPaper/v/b975601c8df559e7fd3b1d07f76a1be2389c67a3/>.
+The permalink for this webpage version is <https://habi.github.io/InMiceMethodPaper/v/9a489e06a17115c7da0345ca2f4d83ce26412969/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://habi.github.io/InMiceMethodPaper/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`b975601c8df559e7fd3b1d07f76a1be2389c67a3`](https://github.com/habi/InMiceMethodPaper/commit/b975601c8df559e7fd3b1d07f76a1be2389c67a3).
+[`9a489e06a17115c7da0345ca2f4d83ce26412969`](https://github.com/habi/InMiceMethodPaper/commit/9a489e06a17115c7da0345ca2f4d83ce26412969).
