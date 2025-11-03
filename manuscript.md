@@ -5,7 +5,7 @@ keywords:
 - bone
 - mouse
 lang: en-US
-date-meta: '2025-10-30'
+date-meta: '2025-11-03'
 author-meta:
 - David Haberthür
 - Pui Ching Chu
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2025-10-30" />
-  <meta name="citation_publication_date" content="2025-10-30" />
-  <meta property="article:published_time" content="2025-10-30" />
-  <meta name="dc.modified" content="2025-10-30T16:44:33+00:00" />
-  <meta property="article:modified_time" content="2025-10-30T16:44:33+00:00" />
+  <meta name="dc.date" content="2025-11-03" />
+  <meta name="citation_publication_date" content="2025-11-03" />
+  <meta property="article:published_time" content="2025-11-03" />
+  <meta name="dc.modified" content="2025-11-03T11:16:33+00:00" />
+  <meta property="article:modified_time" content="2025-11-03T11:16:33+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -55,9 +55,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://habi.github.io/InMiceMethodPaper/" />
   <meta name="citation_pdf_url" content="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://habi.github.io/InMiceMethodPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/b975601c8df559e7fd3b1d07f76a1be2389c67a3/" />
-  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/b975601c8df559e7fd3b1d07f76a1be2389c67a3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/b975601c8df559e7fd3b1d07f76a1be2389c67a3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://habi.github.io/InMiceMethodPaper/v/9a489e06a17115c7da0345ca2f4d83ce26412969/" />
+  <meta name="manubot_html_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/9a489e06a17115c7da0345ca2f4d83ce26412969/" />
+  <meta name="manubot_pdf_url_versioned" content="https://habi.github.io/InMiceMethodPaper/v/9a489e06a17115c7da0345ca2f4d83ce26412969/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -79,10 +79,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/InMiceMethodPaper/v/b975601c8df559e7fd3b1d07f76a1be2389c67a3/))
+([permalink](https://habi.github.io/InMiceMethodPaper/v/9a489e06a17115c7da0345ca2f4d83ce26412969/))
 was automatically generated
-from [habi/InMiceMethodPaper@b975601](https://github.com/habi/InMiceMethodPaper/tree/b975601c8df559e7fd3b1d07f76a1be2389c67a3)
-on October 30, 2025.
+from [habi/InMiceMethodPaper@9a489e0](https://github.com/habi/InMiceMethodPaper/tree/9a489e06a17115c7da0345ca2f4d83ce26412969)
+on November 3, 2025.
 </em></small>
 
 
@@ -173,10 +173,12 @@ One scan for each strain, each hybrid and each sex gives already 90 samples.
 
 ### Tomographic imaging
 
-- SkyScan 1272 with sample changer
-- _All_ log files available here: https://github.unibe.ch/david-haberthuer/InMice/tree/main/logfiles
-- Report scaning settings and reconstruction parameter data according to [@doi:10.1016/j.tmater.2023.100015]
-- Use a notebook to pull _all_ the relevant data to report directly into the text here, or into a file that is loaded by `manubot`.
+We report the scan settings and reconstruction parameter data as suggested by [@doi:10.1016/j.tmater.2023.100015].
+All logfiles of all acquired scans for this project are directly available online at [https://github.unibe.ch/david-haberthuer/InMice/tree/main/logfiles](https://github.unibe.ch/david-haberthuer/InMice/tree/main/logfiles).
+
+All scans were acquired on a SkyScan 1272 (Bruker microCT, Kontich, Belgium), equipped with an automatic sample changer.
+The machine is equipped with a Hamamatsu L11871_20 x-ray source, and a XIMEA xiRAY16 x-ray camera.
+Acquisition was performed in cone-beam mode, inherent to the machine, with a source-to-detector distance of 174.1 mm and a source-to-sample distance of 100.0, 94.1 or 78.9 mm.
 
 ### QA
 
